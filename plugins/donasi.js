@@ -10,14 +10,14 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├🏧 081227144597 (OVO/Dana/GoPay)
+├📃 083115192154 (Pulsa)
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
-wa.me/6281227144597 (Owner)`
+wa.me/6283115192154 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/KYL0g2K7/bank.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
